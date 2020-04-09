@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vk_spamer_online/static/css/main.06d2b413.chunk.css",
+    "main.js": "/vk_spamer_online/static/js/main.74a73c18.chunk.js",
+    "main.js.map": "/vk_spamer_online/static/js/main.74a73c18.chunk.js.map",
+    "runtime-main.js": "/vk_spamer_online/static/js/runtime-main.1c9b5966.js",
+    "runtime-main.js.map": "/vk_spamer_online/static/js/runtime-main.1c9b5966.js.map",
+    "static/js/2.8a93e490.chunk.js": "/vk_spamer_online/static/js/2.8a93e490.chunk.js",
+    "static/js/2.8a93e490.chunk.js.map": "/vk_spamer_online/static/js/2.8a93e490.chunk.js.map",
+    "index.html": "/vk_spamer_online/index.html",
+    "precache-manifest.02844e60c8f62d83de9908c73dde2657.js": "/vk_spamer_online/precache-manifest.02844e60c8f62d83de9908c73dde2657.js",
+    "service-worker.js": "/vk_spamer_online/service-worker.js",
+    "static/css/main.06d2b413.chunk.css.map": "/vk_spamer_online/static/css/main.06d2b413.chunk.css.map",
+    "static/js/2.8a93e490.chunk.js.LICENSE.txt": "/vk_spamer_online/static/js/2.8a93e490.chunk.js.LICENSE.txt",
+    "static/media/comments.png": "/vk_spamer_online/static/media/comments.3e8eb14f.png",
+    "static/media/logo.png": "/vk_spamer_online/static/media/logo.2be4341c.png",
+    "static/media/pm.png": "/vk_spamer_online/static/media/pm.25b700de.png",
+    "static/media/talks.png": "/vk_spamer_online/static/media/talks.7e942421.png",
+    "static/media/users-walls.png": "/vk_spamer_online/static/media/users-walls.8711f0bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c9b5966.js",
+    "static/js/2.8a93e490.chunk.js",
+    "static/css/main.06d2b413.chunk.css",
+    "static/js/main.74a73c18.chunk.js"
+  ]
+}
