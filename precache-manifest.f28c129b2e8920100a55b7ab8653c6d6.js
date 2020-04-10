@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7623b5ea9eb80752c9c00325ed90618f",
+    "revision": "ce67147f215953219506310eb20fe260",
     "url": "/vk_spamer_online/index.html"
   },
   {
-    "revision": "43c074337ba7bb7ccb09",
-    "url": "/vk_spamer_online/static/css/main.1093b6ca.chunk.css"
+    "revision": "c2662d4c0c5846ed8dff",
+    "url": "/vk_spamer_online/static/css/main.62163d31.chunk.css"
   },
   {
-    "revision": "8d3944a16418862fad1a",
-    "url": "/vk_spamer_online/static/js/2.cdd8e419.chunk.js"
+    "revision": "94078c8639888bdf282f",
+    "url": "/vk_spamer_online/static/js/2.bf257ac1.chunk.js"
   },
   {
     "revision": "885c0e205ef5e79f4aef448a818ba6a1",
-    "url": "/vk_spamer_online/static/js/2.cdd8e419.chunk.js.LICENSE.txt"
+    "url": "/vk_spamer_online/static/js/2.bf257ac1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43c074337ba7bb7ccb09",
-    "url": "/vk_spamer_online/static/js/main.f6f31e32.chunk.js"
+    "revision": "c2662d4c0c5846ed8dff",
+    "url": "/vk_spamer_online/static/js/main.e3f34b20.chunk.js"
   },
   {
     "revision": "74abcd2cf4711a24b35f",
