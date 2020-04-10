@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e6cb97932d7bb45528a5723d9177020",
+    "revision": "b89717e051bd7ac51deb469df4e812b8",
     "url": "/vk_spamer_online/index.html"
   },
   {
-    "revision": "e50ea6bd11bf707d9255",
-    "url": "/vk_spamer_online/static/css/main.06d2b413.chunk.css"
+    "revision": "a647750bf9ede12fb584",
+    "url": "/vk_spamer_online/static/css/main.1093b6ca.chunk.css"
   },
   {
     "revision": "8d3944a16418862fad1a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk_spamer_online/static/js/2.cdd8e419.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e50ea6bd11bf707d9255",
-    "url": "/vk_spamer_online/static/js/main.f6f31e32.chunk.js"
+    "revision": "a647750bf9ede12fb584",
+    "url": "/vk_spamer_online/static/js/main.488cebb0.chunk.js"
   },
   {
     "revision": "74abcd2cf4711a24b35f",
