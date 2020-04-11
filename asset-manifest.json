@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vk_spamer_online/static/css/main.b37c9d92.chunk.css",
-    "main.js": "/vk_spamer_online/static/js/main.1ddc0da5.chunk.js",
-    "main.js.map": "/vk_spamer_online/static/js/main.1ddc0da5.chunk.js.map",
+    "main.css": "/vk_spamer_online/static/css/main.21149487.chunk.css",
+    "main.js": "/vk_spamer_online/static/js/main.c6d599df.chunk.js",
+    "main.js.map": "/vk_spamer_online/static/js/main.c6d599df.chunk.js.map",
     "runtime-main.js": "/vk_spamer_online/static/js/runtime-main.1c9b5966.js",
     "runtime-main.js.map": "/vk_spamer_online/static/js/runtime-main.1c9b5966.js.map",
-    "static/js/2.544a0722.chunk.js": "/vk_spamer_online/static/js/2.544a0722.chunk.js",
-    "static/js/2.544a0722.chunk.js.map": "/vk_spamer_online/static/js/2.544a0722.chunk.js.map",
+    "static/js/2.65684794.chunk.js": "/vk_spamer_online/static/js/2.65684794.chunk.js",
+    "static/js/2.65684794.chunk.js.map": "/vk_spamer_online/static/js/2.65684794.chunk.js.map",
     "index.html": "/vk_spamer_online/index.html",
-    "precache-manifest.bf44911b7adc2cc7b2b8c4c9e7497915.js": "/vk_spamer_online/precache-manifest.bf44911b7adc2cc7b2b8c4c9e7497915.js",
+    "precache-manifest.1b46ed136be755d68db248b94b3a211b.js": "/vk_spamer_online/precache-manifest.1b46ed136be755d68db248b94b3a211b.js",
     "service-worker.js": "/vk_spamer_online/service-worker.js",
-    "static/css/main.b37c9d92.chunk.css.map": "/vk_spamer_online/static/css/main.b37c9d92.chunk.css.map",
-    "static/js/2.544a0722.chunk.js.LICENSE.txt": "/vk_spamer_online/static/js/2.544a0722.chunk.js.LICENSE.txt",
+    "static/css/main.21149487.chunk.css.map": "/vk_spamer_online/static/css/main.21149487.chunk.css.map",
+    "static/js/2.65684794.chunk.js.LICENSE.txt": "/vk_spamer_online/static/js/2.65684794.chunk.js.LICENSE.txt",
     "static/media/comments.png": "/vk_spamer_online/static/media/comments.3e8eb14f.png",
     "static/media/logo.png": "/vk_spamer_online/static/media/logo.2be4341c.png",
     "static/media/pm.png": "/vk_spamer_online/static/media/pm.25b700de.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1c9b5966.js",
-    "static/js/2.544a0722.chunk.js",
-    "static/css/main.b37c9d92.chunk.css",
-    "static/js/main.1ddc0da5.chunk.js"
+    "static/js/2.65684794.chunk.js",
+    "static/css/main.21149487.chunk.css",
+    "static/js/main.c6d599df.chunk.js"
   ]
 }
