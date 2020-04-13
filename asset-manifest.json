@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vk_spamer_online/static/css/main.1c93933d.chunk.css",
-    "main.js": "/vk_spamer_online/static/js/main.cff007cf.chunk.js",
-    "main.js.map": "/vk_spamer_online/static/js/main.cff007cf.chunk.js.map",
+    "main.js": "/vk_spamer_online/static/js/main.c6e91add.chunk.js",
+    "main.js.map": "/vk_spamer_online/static/js/main.c6e91add.chunk.js.map",
     "runtime-main.js": "/vk_spamer_online/static/js/runtime-main.1c9b5966.js",
     "runtime-main.js.map": "/vk_spamer_online/static/js/runtime-main.1c9b5966.js.map",
     "static/js/2.406f76c3.chunk.js": "/vk_spamer_online/static/js/2.406f76c3.chunk.js",
     "static/js/2.406f76c3.chunk.js.map": "/vk_spamer_online/static/js/2.406f76c3.chunk.js.map",
     "index.html": "/vk_spamer_online/index.html",
-    "precache-manifest.24cf8d6367a5f8938ac7cdb7e4bb8cd1.js": "/vk_spamer_online/precache-manifest.24cf8d6367a5f8938ac7cdb7e4bb8cd1.js",
+    "precache-manifest.f5bb98e1e7b08f042091468b2876d74c.js": "/vk_spamer_online/precache-manifest.f5bb98e1e7b08f042091468b2876d74c.js",
     "service-worker.js": "/vk_spamer_online/service-worker.js",
     "static/css/main.1c93933d.chunk.css.map": "/vk_spamer_online/static/css/main.1c93933d.chunk.css.map",
     "static/js/2.406f76c3.chunk.js.LICENSE.txt": "/vk_spamer_online/static/js/2.406f76c3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1c9b5966.js",
     "static/js/2.406f76c3.chunk.js",
     "static/css/main.1c93933d.chunk.css",
-    "static/js/main.cff007cf.chunk.js"
+    "static/js/main.c6e91add.chunk.js"
   ]
 }
